@@ -9,6 +9,7 @@ ESP32 cam module: This microcontroller integrates processing power, Wi-Fi connec
 TensorFlow: A machine learning model optimized for the ESP32 cam, responsible for image classification tasks related to Dental hygiene.
 LED Light: Enhances image clarity and detail, optimizing diagnostic accuracy during video streaming.
 Flutter application: Receives video stream from the ESP32 cam, displays it visually, and utilizes the TensorFlow Lite model for classification.
+
 ![Uploading P1140737.JPG…]()
 
 ## Functionality:
